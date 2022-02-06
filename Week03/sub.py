@@ -1,3 +1,4 @@
+#Lab 3.1.2
 #Program to subtract one number from another by reading in 2 numbers
 #X is a str so need to convert to an int when reading in 
 #Y is a str so need to convert to an int when reading in 

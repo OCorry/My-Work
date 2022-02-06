@@ -1,3 +1,4 @@
+#Lab 3.1.1
 #testing that variables are of the correct type
 #Author: Orla Corry
 
