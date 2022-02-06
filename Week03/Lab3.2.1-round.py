@@ -1,5 +1,5 @@
 #rounds a float 
-#will only round to an even number!!
+#seems to be rounding to either an odd or even number for me, which ever is closer
 #Using input to read in 
 #Author: Orla Corry 
 
