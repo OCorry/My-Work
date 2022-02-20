@@ -4,7 +4,7 @@
 
 import datetime #importing datetime funtion to python
 x = datetime.datetime.now() #x is equal to the day it is at this moment in time 
-today = x.strftime("%A")  #define today 
+today = x.strftime("%A")  #define today as a str (weekday, full version)
 #print(today)   #this will print out today's day - if i had put this in inverted commas it would have just printed "today"
                 #will tag this out for the purposes of printing a neater final output
 
