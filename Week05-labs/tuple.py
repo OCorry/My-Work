@@ -1,4 +1,4 @@
-#Create a Tuple that stored the months of the year
+#Create a Tuple that stores the months of the year and then prints the summmer months (May, June, July)
 #Author: Orla Corry 
 
 months =("January",
