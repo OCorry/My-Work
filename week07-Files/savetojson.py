@@ -57,6 +57,7 @@ def doLoad():
 
 #main program
 #students is now a global variable 
+#
 choice = displayMenu()
 while choice != 'q':
     if choice == 'a':
