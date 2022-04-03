@@ -1,8 +1,5 @@
 #messing with objects
-#Author: Orla Corry 
-
-from os import name
-
+#Author: Orla Corry
 
 class nameofclass:
     name =""  #attribute
